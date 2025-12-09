@@ -1,0 +1,34 @@
+{
+  "stories": [
+    {
+      "title": "Summary",
+      "created": 1765309969398,
+      "submissionHistory": {},
+      "versions": [
+        "d434eaa8-698d-4e00-b95a-8a2d37ec51ad"
+      ],
+      "versioningMode": "git",
+      "id": "d013f8e9-c7bd-45d6-a5f6-8f55f0ea7a0c"
+    }
+  ],
+  "versions": [
+    {
+      "storyId": "d013f8e9-c7bd-45d6-a5f6-8f55f0ea7a0c",
+      "name": "draft",
+      "wordCount": 0,
+      "created": 1765309970343,
+      "statistics": {},
+      "branch": "draft1",
+      "id": "d434eaa8-698d-4e00-b95a-8a2d37ec51ad"
+    }
+  ],
+  "backups": [
+    {
+      "timestamp": 1765309966843,
+      "localPath": "...\\Documents\\Babel\\babel-2025-12-09.backup.zip",
+      "cloudProviders": [],
+      "id": "7a75b4ab-baee-4f0f-910c-893b3e8b3e5f"
+    }
+  ],
+  "activity": []
+}
